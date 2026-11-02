@@ -101,33 +101,5 @@
       ]
     }
   },
-  "transfers": [
-    {
-      "index": 1,
-      "block": 130888779,
-      "utc": "2026-10-31 16:26:25 UTC",
-      "cot": "2026-10-31 11:26:25 COT",
-      "tx_hash": "0x62c8f359e9f2619c720b0b52f0d8657aa26959a744c1d5a12529cd6838584e4e",
-      "recipient": "0xa5c05b52790896b843b2701aef85ef1e2202f62d",
-      "amount_flapjax": 250000.0
-    },
-    {
-      "index": 2,
-      "block": 130888788,
-      "utc": "2026-10-31 16:26:30 UTC",
-      "cot": "2026-10-31 11:26:30 COT",
-      "tx_hash": "0x1be120290b7ada231f3b8aaa904eafe1c7d238a73f365d0c4435872352e6daad",
-      "recipient": "0xec2f03b4baa1dc49559e56a54f84a2e9f2a30a91",
-      "amount_flapjax": 250000.0
-    },
-    {
-      "index": 3,
-      "block": 130927920,
-      "utc": "2026-10-31 21:20:02 UTC",
-      "cot": "2026-10-31 16:20:02 COT",
-      "tx_hash": "0x550093c74013ac5aecc707d5b932fbf541d78136aedcacac7273e3023fd6521e",
-      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
-      "amount_flapjax": 24999.999999999996
-    }
-  ]
+  "transfers": []
 }
