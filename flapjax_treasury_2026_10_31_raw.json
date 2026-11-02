@@ -1,0 +1,133 @@
+{
+  "summary": {
+    "audit_title": "FlapJax Treasury FLAPJAX Outflow Audit \u2014 2026-10-31 (COT, UTC-5)",
+    "treasury": "0x7C34E9e21eE28A49Ff0b84B61774119E6633359f",
+    "token": "0x90c8889f428F9Ebb77BB8f15CAD3a50a9aC680df",
+    "date_cot": "2026-10-31",
+    "start_block": 130797289,
+    "start_timestamp_utc": "2026-10-31T05:00:00.000Z",
+    "start_time_cot": "2026-10-31 00:00:00 COT",
+    "end_block": 130989235,
+    "end_timestamp_utc": "2026-11-01T04:59:59.000Z",
+    "end_time_cot": "2026-10-31 23:59:59 COT",
+    "total_transfer_events": 30,
+    "distinct_recipients": 22,
+    "total_flapjx_sent": 5850000.0,
+    "treasury_first_funder": {
+      "funder": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+      "txHash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+      "block": 123473817,
+      "value_bnb": 0.12638071
+    },
+    "funder_groups": {
+      "treasury_group": {
+        "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+        "members": [
+          {
+            "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+            "tx": "0x87443eff82255da634e5a953e5454659f8a8ce7ec9da418cb225c56c271816e8",
+            "block": 130097514,
+            "value_bnb": 0.0005
+          },
+          {
+            "recipient": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+            "tx": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+            "block": 126835408,
+            "value_bnb": 0.0005
+          }
+        ]
+      },
+      "funder_0xc76c": {
+        "funder": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab",
+        "members": [
+          {
+            "recipient": "0x335aa55c12b260e604d93cb0b0895bb13a4e93e3",
+            "tx": "0x13040ac5c98df487cbbc466a17923ccb412095cb9422c54e7672fa7ac26db8e4",
+            "block": 123994439,
+            "value_bnb": 0.00077032
+          }
+        ]
+      },
+      "funder_0xbd61": {
+        "funder": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774",
+        "members": [
+          {
+            "recipient": "0x3bb76fcc8f2e63dd4009481f9a7c596285d8920a",
+            "tx": "0x9bfbbfaea4aad86c7a94b7b6957bcaf6382279315899c34ec4985c331f2adc67",
+            "block": 129755151,
+            "value_bnb": 0.00049
+          }
+        ]
+      },
+      "funder_0x1fbe": {
+        "funder": "0x1fbe2acee135d991592f167ac371f3dd893a508b",
+        "members": [
+          {
+            "recipient": "0x48e78ffc3f02a65c6a9718b4dc293ae14cbb7985",
+            "tx": "0xe61d073319658e839b3eba7dbb80942135882b7aae38db3f2152b818970cf097",
+            "block": 75015753,
+            "value_bnb": 0.00108832
+          }
+        ]
+      },
+      "funder_0x161b": {
+        "funder": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645",
+        "members": [
+          {
+            "recipient": "0xc5c431d0590ba65a034c43d6b328f79dd93c3c3b",
+            "tx": "0xd7eaf66b88e639def3501552da7eba79d1080df4003f5e90d8dfa7e11f7289e5",
+            "block": 129641394,
+            "value_bnb": 0.019975
+          }
+        ]
+      },
+      "never_funded_group": [
+        "0x3aeae5f742e34f94db19b6c494072957633fa7ca",
+        "0x455f7c3d91bd41b72060a23df0a291a1f9e88c35",
+        "0x59fc758a86e5903616648db7f13ef4918637000f",
+        "0x925dfa5e2427ef58712ef164633325d08b6f9d46",
+        "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+        "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+        "0xa5c05b52790896b843b2701aef85ef1e2202f62d",
+        "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+        "0xb1051c2b38ad3efefc7ff5fb61d7068bd031b81e",
+        "0xd16446a568f46bca1504422062f23767d8fa58d9",
+        "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+        "0xe6457e50401d46aedb1b6a219c504720cd72ac28",
+        "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+        "0xeba13671a2f1993ee26a4e286db6e491fa5c99bc",
+        "0xec2f03b4baa1dc49559e56a54f84a2e9f2a30a91",
+        "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8"
+      ]
+    }
+  },
+  "transfers": [
+    {
+      "index": 1,
+      "block": 130888779,
+      "utc": "2026-10-31 16:26:25 UTC",
+      "cot": "2026-10-31 11:26:25 COT",
+      "tx_hash": "0x62c8f359e9f2619c720b0b52f0d8657aa26959a744c1d5a12529cd6838584e4e",
+      "recipient": "0xa5c05b52790896b843b2701aef85ef1e2202f62d",
+      "amount_flapjax": 250000.0
+    },
+    {
+      "index": 2,
+      "block": 130888788,
+      "utc": "2026-10-31 16:26:30 UTC",
+      "cot": "2026-10-31 11:26:30 COT",
+      "tx_hash": "0x1be120290b7ada231f3b8aaa904eafe1c7d238a73f365d0c4435872352e6daad",
+      "recipient": "0xec2f03b4baa1dc49559e56a54f84a2e9f2a30a91",
+      "amount_flapjax": 250000.0
+    },
+    {
+      "index": 3,
+      "block": 130927920,
+      "utc": "2026-10-31 21:20:02 UTC",
+      "cot": "2026-10-31 16:20:02 COT",
+      "tx_hash": "0x550093c74013ac5aecc707d5b932fbf541d78136aedcacac7273e3023fd6521e",
+      "recipient": "0xca58696564492ef9c3229c89072365b253bda246",
+      "amount_flapjax": 24999.999999999996
+    }
+  ]
+}
